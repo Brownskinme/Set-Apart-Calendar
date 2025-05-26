@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Set-Apart Seasons: BrownSkin.me Planner</title>
+  <style>
+    body {
+      font-family: 'Raleway', sans-serif;
+      background: #F8F5F2;
+      color: #1C1B2F;
+      margin: 0;
+      padding: 2rem;
+      text-align: center;
+    }
+    .logo {
+      max-height: 80px;
+      margin-bottom: 1rem;
+    }
+    .iframe-container {
+      width: 100%;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+  </style>
+</head>
+<body>
+  <img src="https://brownskin.me/logo.png" alt="BrownSkin.me Logo" class="logo" />
+  <h1 class="text-2xl font-bold mb-4">🕊️ Set-Apart Seasons: Interactive Calendar Planner</h1>
+
+  <div class="iframe-container">
+    <iframe 
+      src="https://brownskinme.github.io/Planner/" 
+      width="100%" 
+      height="1200px" 
+      style="border:none; overflow:auto;" 
+      title="Set-Apart Seasons Planner">
+    </iframe>
+  </div>
+</body>
+</html>
